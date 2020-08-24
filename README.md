@@ -1,1 +1,1 @@
-My solutions to the DS Take Home Challenge.
+### Projects aimed to solve real world problems in different industires using Data Science techniques.
